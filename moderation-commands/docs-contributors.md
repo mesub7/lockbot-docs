@@ -1,6 +1,6 @@
 # Docs Contributors
 
-This documentation has been contributed to by the following people: 
+This documentation has been contributed to by the following people:
 
 * AdamV - Project Leader
 * Mesub - Support Team Leader

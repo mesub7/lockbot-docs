@@ -6,5 +6,5 @@ For more general information about the general system itself see the Admin & Mod
 
 This role should not be given to people that should not have access to the above commands.
 
-Users with this role will not be able to use any locking commands. 
+Users with this role will not be able to use any locking commands.
 

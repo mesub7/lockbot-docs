@@ -2,7 +2,7 @@
 
 ## Channel Information
 
-The channel info command will display information based on a mentioned channel.  
+The channel info command will display information based on a mentioned channel.
 
 {% hint style="success" %}
 **Format: \[prefix\]channelinfo \#channel**

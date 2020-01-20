@@ -1,7 +1,7 @@
 # Embed
 
 I think everyone knows what a discord embed is right?  
-Well this command with the correct user permissions can generate one for you, this command is designed to be used for server information like rules and announcements. Not really for speaking to your friend \(or fooling staff members!\) 
+Well this command with the correct user permissions can generate one for you, this command is designed to be used for server information like rules and announcements. Not really for speaking to your friend \(or fooling staff members!\)
 
 {% hint style="success" %}
 **Format: \[prefix\]embed \[Message\]**

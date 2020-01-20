@@ -34,5 +34,5 @@
 
 * [Ban](moderation-commands/untitled.md)
 * [Kick](moderation-commands/kick.md)
-* [Docs Contributors](docs-contributors.md)
+* [Docs Contributors](moderation-commands/docs-contributors.md)
 
