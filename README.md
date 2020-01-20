@@ -1,12 +1,8 @@
 # Lock Bot \| Version 2
 
-{% hint style="danger" %}
 All documentation on this page is subject to version 2 and will not apply to version 1.18. All documentation is subject to change.
-{% endhint %}
 
-{% hint style="warning" %}
 Documentation on this site is currently work in progress.
-{% endhint %}
 
 ## **Information:**
 
