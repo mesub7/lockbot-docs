@@ -6,7 +6,6 @@ Documentation on this site is currently work in progress.
 
 ## **Information:**
 
-  
 Lock bot as you know has been running for a while now; breaking records I never thought we would ever get to.  
 It has occurred to us that some of the commands are now also quite old, outdated and are becoming quite hard to work on.  
 During the summer and future months I am trying rewrite lock bot and all of its code to make it more stable and useful to the community.

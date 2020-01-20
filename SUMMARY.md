@@ -6,11 +6,13 @@
 
 ## Lock Commands
 
+* [Link Lock](lock-commands/link-lock.md)
+* [Invite Link Lock](lock-commands/invite-link-lock.md)
 * [Ban lock](lock-commands/ban-lock.md)
 * [Kick Lock](lock-commands/kick-lock.md)
 * [Server Unlock](lock-commands/server-unlock.md)
 * [Maintenance Mode](lock-commands/maintenance-mode/README.md)
-  * [M-Unlock](lock-commands/maintenance-mode/untitled-1.md)
+  * [M-Unlock](lock-commands/maintenance-mode/m-unlock.md)
 
 ## General Commands
 
@@ -23,6 +25,7 @@
 
 ## Bot Setup & Info Commands <a id="bot-info-commands"></a>
 
+* [Help](bot-info-commands/help.md)
 * [Info](bot-info-commands/info.md)
 * [Admin & Mod System](bot-info-commands/admin-and-mod-system/README.md)
   * [Mod System](bot-info-commands/admin-and-mod-system/mod-system.md)
@@ -34,5 +37,5 @@
 
 * [Ban](moderation-commands/untitled.md)
 * [Kick](moderation-commands/kick.md)
-* [Docs Contributors](docs-contributors.md)
+* [Docs Contributors](moderation-commands/docs-contributors.md)
 
