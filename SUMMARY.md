@@ -42,5 +42,5 @@
 
 * [Change Log](network-info/change-log.md)
 * [Terms & Conditions](network-info/lock-bot-terms-and-conditions.md)
-* [Docs Contributors](moderation-commands/docs-contributors.md)
+* [Docs Contributors](network-info/docs-contributors.md)
 
