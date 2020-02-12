@@ -2,7 +2,7 @@
 
 ## V2.0.6 - 12/2/2020
 
-Update: Mainly fixing a lot of bugs from V2 release as well as adding some things from 1.18 that where not added in V2 release. Please report any other issues in our discord.
+Update: mainly fixing a lot of bugs from V2 release as well as adding some things from 1.18 that were not added in V2 release. Please report any other issues in our discord.
 
 #### Added:
 
