@@ -10,7 +10,7 @@ People posting links that you don't want in your server? Easy, just remove the p
 **Bot permissions required: Manage Messages** – _It's advised that lock bot should have full server admin to carry out functions correctly._
 {% endhint %}
 
- This command, when enabled, will not allow anybody to post links \(discord links as well as other links\) to any channel that the bot can see. If a link has been posted then the bot will automatically remove it and post this message:
+This command, when enabled, will not allow anybody to post links \(discord links as well as other links\) to any channel that the bot can see. If a link has been posted then the bot will automatically remove it and post this message:
 
 ![](../.gitbook/assets/image%20%283%29.png)
 

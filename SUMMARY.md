@@ -37,5 +37,9 @@
 
 * [Ban](moderation-commands/untitled.md)
 * [Kick](moderation-commands/kick.md)
-* [Docs Contributors](moderation-commands/docs-contributors.md)
+
+## Network Info
+
+* [Lock Bot Terms & Conditions](network-info/lock-bot-terms-and-conditions.md)
+* [Docs Contributors](network-info/docs-contributors.md)
 
