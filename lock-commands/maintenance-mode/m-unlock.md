@@ -20,9 +20,9 @@ To unlock all channels, you would use the command `[prefix]m-unlock 1` which wil
 {% endtab %}
 
 {% tab title="Method 2: Unlock all channels in a category" %}
-Prerequisite: To ensure that this command works as intended, ensure that all channels in the category have their permissions synced.
+Prerequisite: To ensure that this command works as intended, ensure that all channels in the category have their permissions synced. 
 
-To unlock all channels in a specific category, you would need to run this command `[prefix]m-unlock 2 (category name).`
+To unlock all channels in a specific category, you would need to run this command `[prefix]m-unlock 2 (category name).` 
 {% endtab %}
 
 {% tab title="Method 3: Unlock mentioned channels" %}

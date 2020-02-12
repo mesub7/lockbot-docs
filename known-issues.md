@@ -13,7 +13,7 @@ It has come to our attention that m-unlock 3 does not unlock multiple channels. 
 
 It has come to our attention that the bot's uptime is very short and in some instances, it does not respond to commands. We have found out that the issue is due to our current resources being maximised.
 
-We have located a new server that will hold the bot's growing resource usage. However, it will take a while for us to migrate from the old server to the new one so we ask for your patience while you bare with us.
+We have located a new server that will hold the bot's growing resource usage. However, it will take a while for us to migrate from the old server to the new one so we ask for your patience while you bare with us. 
 {% endhint %}
 
 **Note:** Only major issues are posted here and bugs that do not affect the core bot will not be posted here.

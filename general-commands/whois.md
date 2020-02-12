@@ -5,9 +5,9 @@
 The whois command will display information on users that are mentioned or found by their ID.
 
 {% hint style="success" %}
-\*\*Format: \[prefix\]whois \[user mention / user ID\]
-
-User permissions required: everyone\*\*
+**Format: \[prefix\]whois \[user mention / user ID\]  
+  
+User permissions required: everyone** 
 
 **Bot permissions required: none** – _It's advised that lock bot should have full server admin to carry out functions correctly._
 {% endhint %}
@@ -23,7 +23,7 @@ User permissions required: everyone\*\*
 * User’s server roles
 
 {% hint style="warning" %}
-_In an event of the error `unknown user` or `unknown ID` , make sure that the person is in the current server and if you are using the ID, make sure it's correct._
+_In an event of the error `unknown user` or  `unknown ID` , make sure that the person is in the current server and if you are using the ID, make sure it's correct._
 {% endhint %}
 
 ### User Badges
@@ -32,7 +32,7 @@ User badges on whois are granted by lock bot staff via the support server and ar
 
 #### The current badges you can have on the system are the following:
 
-* **\[Wrench\]** \__\*\*_\_Developer 
+* **\[Wrench\]** _****_Developer 
 * **\[Shield\]** Official Staff
 * **\[Box\]** Tester
 * **\[Check List\]** Partner
@@ -49,7 +49,7 @@ User badges on whois are granted by lock bot staff via the support server and ar
 * Community Moderation
 * Lock Bot Support Team
 
-The latest information on staff members can be found \[[here](https://lockbot.network/team)\]
+The latest information on staff members can be found \[[here](https://lockbot.network/team)\] 
 
 {% hint style="danger" %}
 Users claiming to be staff without this badge are fake and should removed or reported.

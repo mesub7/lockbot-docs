@@ -1,6 +1,6 @@
 # Maintenance Mode
 
-## Maintenance Mode
+## Maintenance Mode 
 
 One of the most popular lock bot commands, and can be very helpful as a server tool as well as a lock down tool which some users prefer to use it as.
 
@@ -18,7 +18,7 @@ Maintenance mode has been a challenge to maintain, having to change the system a
 
 Upon the command being given, lock bot will display a notice that should be read for your information. It will also ask you if you wish to continue with the command. If you do you will need to reply “yes” \(keep in mind this is case sensitive\). If you do not reply, it will time out and cancel. This feature is in place as this command can be quite destructive if not used correctly.
 
-### What does this command actually do?
+###  What does this command actually do? 
 
 Maintenance mode on activation and confirmation will lock all of the servers channels via the @everyone role _\(if other roles are set to override this then it may not work correctly\)._ It will also create a temporary channel with some basic info, this can be removed if desired. Users with server admin or role overrides will still be able to see the channels in the server. _If you're still having issues using m-mode please contact us via the discord support server. **Read this carefully first.**_
 

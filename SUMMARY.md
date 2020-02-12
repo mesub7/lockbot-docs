@@ -40,6 +40,6 @@
 
 ## Network Info
 
-* [Lock Bot Terms & Conditions](network-info/lock-bot-terms-and-conditions.md)
-* [Docs Contributors](network-info/docs-contributors.md)
+* [Terms & Conditions](network-info/lock-bot-terms-and-conditions.md)
+* [Docs Contributors](moderation-commands/docs-contributors.md)
 

@@ -1,6 +1,6 @@
 # Role Info
 
-## Role Information
+## Role Information 
 
 The role Info command will display info on a role based off of a role mention or ID.
 

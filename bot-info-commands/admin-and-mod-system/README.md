@@ -1,6 +1,6 @@
 # Admin & Mod System
 
-The lock bot mod & admin system has been a while in the planning but was introduced as part of the new framework in lock bot V2. This is a similar concept to some other bots that also have this feature.
+The lock bot mod & admin system has been a while in the planning but was introduced as part of the new framework in lock bot V2. This is a similar concept to some other bots that also have this feature. 
 
 {% hint style="warning" %}
 This feature has been introduced on the side of the original permissions system which means that it's not required to use lock bot. You can still use it via discord role permissions.
@@ -12,7 +12,7 @@ The admin and mod system allows server admins and owners to give specific roles 
 
 ### System Setup
 
-If you're using the system for the first time, if you try and add a mod or an admin using the commands the bot will create the roles for you \(If the bot has permissions to do so\). If the roles already exist then it will skip this process and just add the user as a mod or admin depending on what was set.
+If you're using the system for the first time, if you try and add a mod or an admin using the commands the bot will create the roles for you \(If the bot has permissions to do so\). If the roles already exist then it will skip this process and just add the user as a mod or admin depending on what was set.  
 
 The roles will be generated without permissions and at the bottom of the role list. The roles do not require any permissions but its advised that the roles are moved up the list to allow the users to use the bot correctly and stop people assigning the roles to themselves.
 
@@ -20,21 +20,23 @@ The roles will be generated without permissions and at the bottom of the role li
 
 \[!\]**AddAdmin @mention** - Adds user to lock bot as server admin
 
-\[!\]**AddMod @mention** - Adds user to lock bot as a server moderator
+\[!\]**AddMod @mention** - Adds user to lock bot as a server moderator 
 
 \[!\]**RemoveAdmin @mention** - Removes user as a lock bot server admin
 
-\[!\]**RemoveMod @mention** - Removes user as a lock bot server moderator
+\[!\]**RemoveMod @mention** - Removes user as a lock bot server moderator 
 
-\[!\]**Liststaff** - Will display an embed showing listed lock bot server admins and moderators
+\[!\]**Liststaff**  - Will display an embed showing listed lock bot server admins and moderators
 
-## FAQ - Admin & Mod System
+## FAQ - Admin & Mod System 
 
 **Can I create custom admin and mod roles?** - No for now the roles have to be called \[LB\] Mod and \[LB\] Admin. This may change in the future.
 
-**Can I manually give people the roles?** - Yes the commands exist to make it easier but you can do it yourself if you want.
+**Can I manually give people the roles?** - Yes the commands exist to make it easier but you can do it yourself if you want. 
 
 **Can I use lock bot without this system?** - Yes, it still will work with discord permissions. Check the command pages to find out what permissions are required.
 
 **Can I have both the admin and mod roles?** - Yes you can have both roles at once, there's not much point but there's nothing stopping you.
+
+
 

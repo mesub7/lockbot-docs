@@ -1,4 +1,4 @@
-# Lock Bot Terms & Conditions
+# Terms & Conditions
 
 Coming Soon...
 
