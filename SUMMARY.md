@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Lock Bot \| Version 2](README.md)
-* [FAQ](faq.md)
 * [Known Issues](known-issues.md)
+* [FAQ](faq.md)
 
 ## Lock Commands
 
@@ -37,5 +37,10 @@
 
 * [Ban](moderation-commands/untitled.md)
 * [Kick](moderation-commands/kick.md)
-* [Docs Contributors](moderation-commands/docs-contributors.md)
+
+## Network Info
+
+* [Change Log](network-info/change-log.md)
+* [Terms & Conditions](network-info/lock-bot-terms-and-conditions.md)
+* [Docs Contributors](network-info/docs-contributors.md)
 
