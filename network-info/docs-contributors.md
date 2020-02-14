@@ -9,5 +9,7 @@ If you are interested in contributing to the documentation \( or helping us tran
 
 Special thanks to mesub's testing group \(they know who they are ♥\)
 
+An additional thanks to Transport Dash for assisting us with screenshotting.
+
 The Documentation is copyright of Lockbot Network 2020 and is supported by Gitbooks web services.
 
