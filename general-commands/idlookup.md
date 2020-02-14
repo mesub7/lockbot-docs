@@ -13,12 +13,12 @@ Have you ever wanted to find an ID of something? Well here is the command for yo
 
 **Format: \[prefix\]Idlookup @User** \[User ID\]
 
-**User permissions required: everyone** 
+**User permissions required: everyone**
 
 **Bot permissions required: none** – _It's advised that lock bot should have full server admin to carry out functions correctly._
 {% endhint %}
 
 {% hint style="warning" %}
-_Leaving the command blank or with an unknown message will just result in the output of the current server ID_ 
+_Leaving the command blank or with an unknown message will just result in the output of the current server ID_
 {% endhint %}
 
