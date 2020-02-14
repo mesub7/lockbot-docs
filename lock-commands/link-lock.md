@@ -12,7 +12,7 @@ People posting links that you don't want in your server? Easy, just remove the p
 
  This command, when enabled, will not allow anybody to post links \(discord links as well as other links\) to any channel that the bot can see. If a link has been posted then the bot will automatically remove it and post this message:
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 To disable this, simply run \[prefix\]l-unlock and it will disable it, allowing anybody to post links.
 

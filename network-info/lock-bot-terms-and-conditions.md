@@ -12,7 +12,7 @@ Lock bot is a non profit project payed for and run by the developers and support
 
 ## Support & Discord
 
-Support in the discord and on the websites are completely voluntary, no one is getting paid for this. So don't expect constant support but we will once again do our best to provide support for the service. Staff have the right to refuse help to any member for any reason.   
+Support in the discord and on the websites are completely voluntary, no one is getting paid for this. So don't expect constant support but we will once again do our best to provide support for the service. Staff have the right to refuse help to any member for any reason.
 
 ## Who reads this stuff anyway?
 

@@ -4,7 +4,7 @@
 
 Update: mainly fixing a lot of bugs from V2 release as well as adding some things from 1.18 that were not added in V2 release. Please report any other issues in our discord.
 
-#### Added:
+### Added:
 
 * Added Embed message parameters check to stop a message sending with command name
 * Added ping bot for prefix
@@ -12,7 +12,7 @@ Update: mainly fixing a lot of bugs from V2 release as well as adding some thing
 * Added invite command
 * Added lock bot automatic playing status
 
-#### Fixes:
+### Fixes:
 
 * Fixed Add mod command showing new user as undefined
 * Fixed old prefix in m-mode embed
@@ -21,6 +21,4 @@ Update: mainly fixing a lot of bugs from V2 release as well as adding some thing
 * Fixed markdown errors on channel limit checker \(m-unlock\)
 * Fixed old prefix in L-Lock
 * Fixed \(maybe\) join logs showing on when running panel for the first time
-
-
 
