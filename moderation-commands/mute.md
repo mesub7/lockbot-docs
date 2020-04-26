@@ -19,19 +19,17 @@ Once the command has been run, the "Muted" role will be applied to the user. A c
 {% hint style="info" %}
 ## Mute issues
 
- If there are issues \(the user can still talk\) then please read the following information before going to support:
+If there are issues \(the user can still talk\) then please read the following information before going to support:
 
 If the user has got the Muted role but still can talk means then there's issue with your channel permissions.
 
-Go to `Channel Settings` -&gt; `Permissions` 
+Go to `Channel Settings` -&gt; `Permissions`
 
-  
-If that's public channel that can be accessed by anyone: 
+If that's public channel that can be accessed by anyone:
 
 * Set ![:GrayTick:](https://cdn.discordapp.com/emojis/452773421294813185.png?v=1) `Send Messages` for all roles except Muted.
 * Set ![:RedTick~1:](https://cdn.discordapp.com/emojis/375575883097833483.png?v=1) `Send Messages` for the Muted role.
 
-  
 If that's secret channel that requires a specific role to access it:
 
 * Set ![:GrayTick:](https://cdn.discordapp.com/emojis/452773421294813185.png?v=1) `Send Messages` ![:GreenTick~2:](https://cdn.discordapp.com/emojis/375576212568801280.png?v=1) `Read Messages` for the specific role.
@@ -40,8 +38,4 @@ If that's secret channel that requires a specific role to access it:
 
 If you are still having issues then visit the discord server.
 {% endhint %}
-
-
-
-
 
