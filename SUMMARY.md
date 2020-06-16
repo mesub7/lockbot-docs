@@ -33,6 +33,7 @@
 * [List Staff](bot-info-commands/liststaff.md)
 * [Logs Setup](bot-info-commands/logs-setup.md)
 * [Prefix Setup](bot-info-commands/prefix-setup.md)
+* [Panel](bot-info-commands/panel.md)
 
 ## Moderation Commands
 

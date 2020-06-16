@@ -12,7 +12,7 @@ Don't want people posting invite links to their Fortnite clan? We got you covere
 
 This command has the exact same functionality as the link lock. The only difference is that it will only look for discord links. If it is triggered then this message will appear:
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%284%29%20%281%29.png)
 
 **Note:** Lock bot moderators and admins as well as users with administrator permissions will be able to bypass this lock.
 
