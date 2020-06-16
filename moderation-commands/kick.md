@@ -1,6 +1,6 @@
 # Kick
 
-Don't like someone? Breaking the rules? Well you could kick them so they can come back later. The kick command can kick a user in the server based off of a user ID or a user mention. The command will also log the kick and reason to the audit log and logs channel if one is setup.
+Don't like someone? Breaking the rules? Well, you could kick them so they can come back later. The kick command can kick a user in the server based off of a user ID or a user mention. The command will also log the kick and reason to the audit log and logs channel if one is setup.
 
 {% hint style="success" %}
 **Format: \[prefix\]Kick \[@Mention / ID\] \[Reason\]**
