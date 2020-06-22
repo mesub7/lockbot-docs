@@ -1,8 +1,12 @@
 # Prefix Setup
 
+{% hint style="warning" %}
+We are aware that the prefix is not working. Please see the known issues page for more information.
+{% endhint %}
+
 ## Server Prefix
 
-A bot prefix is a symbol or letter that goes before a command to tell the bot that it is required to do something, by default the prefix is **.**
+A bot prefix is a symbol or letter that goes before a command to tell the bot that it is required to do something, by default the prefix is **`.`**
 
 ## Lost / Unknown Prefix
 
@@ -23,6 +27,6 @@ Some users do not like the default prefix and / or want to change it to somethin
 Because this feature takes up storage space on our server, it is a requirement for users that wish to change the prefix have voted for our bot page in return. You can find our page here: [_https://top.gg/bot/422082687310888971_](https://top.gg/bot/422082687310888971)\_\_
 
 {% hint style="danger" %}
-In case of an issue please contact the support team in our discord server for assistance.
+If you have any issues then please contact the support team in our discord server for assistance.
 {% endhint %}
 
