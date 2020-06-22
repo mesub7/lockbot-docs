@@ -20,5 +20,5 @@ We currently are not looking for staff members right now. However, we do have an
 
 ## Does Lock Bot actually prevent raids?
 
-Lock Bot can be used as part of a server management kit to help prevent raids. This includes using [Discord's security verification levels](https://support.discordapp.com/hc/en-us/articles/216679607-What-are-Verification-Levels-) as well as using another bot for verification. Depending on how many measures you have put in place, Lock Bot can be your second or third \(last\) form of defense if a raid occurs.
+Lock Bot can be used as part of a server management kit to help prevent raids. This includes using [Discord's security verification levels](https://support.discordapp.com/hc/en-us/articles/216679607-What-are-Verification-Levels-) as well as using another bot for verification. Depending on how many measures you have put in place, Lock Bot can be your second or third \(last\) form of defence if a raid occurs.
 
