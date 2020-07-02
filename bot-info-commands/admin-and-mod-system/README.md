@@ -18,15 +18,15 @@ The roles will be generated without permissions and at the bottom of the role li
 
 ## System Commands
 
-\[!\]**AddAdmin @mention** - Adds user to lock bot as server admin
+**.AddAdmin @mention** - Adds user to lock bot as server admin
 
-\[!\]**AddMod @mention** - Adds user to lock bot as a server moderator
+**.AddMod @mention** - Adds user to lock bot as a server moderator
 
-\[!\]**RemoveAdmin @mention** - Removes user as a lock bot server admin
+**.RemoveAdmin @mention** - Removes user as a lock bot server admin
 
-\[!\]**RemoveMod @mention** - Removes user as a lock bot server moderator
+**.RemoveMod @mention** - Removes user as a lock bot server moderator
 
-\[!\]**Liststaff** - Will display an embed showing listed lock bot server admins and moderators
+**.Liststaff** - Will display an embed showing listed lock bot server admins and moderators
 
 ## FAQ - Admin & Mod System
 
