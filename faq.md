@@ -4,6 +4,16 @@ description: Frequently Asked Questions
 
 # FAQ
 
+## Why is Lock Bot shutting down?
+
+We are sorry to say that Lock Bot will be shutting down. This is for many reasons including the developer's time to work on the project.
+
+### But it could be open source, no?
+
+We discussed making open source but decided against it just due to the things that are linked with our servers and commands that are broken including the fact that it will need to be updated to discord js v12. We do hope that lock bot has inspired developers to take on projects in such an area.
+
+
+
 ## What is the bot prefix / Why is it not working?
 
 The bot's prefix is **.** \(Yes it has been changed :\) \). \_\_If the main prefix is still not working for you and it may have been changed but you don't know what it would be, tag the bot and it will show you your current server prefix.
