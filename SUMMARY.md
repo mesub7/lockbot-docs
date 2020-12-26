@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lock Bot \| Version 2](README.md)
+* [LockBot \| Version 3](README.md)
 * [Known Issues](known-issues.md)
 * [FAQ](faq.md)
 
