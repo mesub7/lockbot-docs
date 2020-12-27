@@ -11,14 +11,12 @@
 * [Ban lock](lock-commands/ban-lock.md)
 * [Kick Lock](lock-commands/kick-lock.md)
 * [Server Unlock](lock-commands/server-unlock.md)
-* [Maintenance Mode](lock-commands/maintenance-mode/README.md)
-  * [M-Unlock](lock-commands/maintenance-mode/m-unlock.md)
+* [Maintenance Mode](lock-commands/maintenance-mode.md)
 
 ## General Commands
 
 * [IDLookup](general-commands/idlookup.md)
 * [Whois](general-commands/whois.md)
-* [Embed](general-commands/embed.md)
 * [Server Info](general-commands/server-info.md)
 * [Channel Info](general-commands/channel-info.md)
 * [Role Info](general-commands/role-info.md)
@@ -27,13 +25,7 @@
 
 * [Help](bot-info-commands/help.md)
 * [Info](bot-info-commands/info.md)
-* [Admin & Mod System](bot-info-commands/admin-and-mod-system/README.md)
-  * [Mod System](bot-info-commands/admin-and-mod-system/mod-system.md)
-  * [Admin System](bot-info-commands/admin-and-mod-system/admin-system.md)
-* [List Staff](bot-info-commands/liststaff.md)
-* [Logs Setup](bot-info-commands/logs-setup.md)
 * [Prefix Setup](bot-info-commands/prefix-setup.md)
-* [Panel](bot-info-commands/panel.md)
 
 ## Moderation Commands
 
@@ -41,6 +33,7 @@
 * [Kick](moderation-commands/kick.md)
 * [Mute](moderation-commands/mute.md)
 * [Purge](moderation-commands/purge.md)
+* [Slowmode](moderation-commands/slowmode.md)
 
 ## Network Info
 

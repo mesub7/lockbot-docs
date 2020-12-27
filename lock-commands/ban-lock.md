@@ -5,16 +5,18 @@ Getting raided? Expecting unwelcome visitors to your server? Enabling ban lock w
 {% hint style="success" %}
 **Format: \[prefix\]b-lock**
 
-**User permissions required: Lock Bot Admin or Server Admin**
+**User permissions required: LockBot Admin or Server Admin**
 
-**Bot permissions required: Ban Members -** _It's advised that lock bot has the administrator flag to carry out all functions correctly._
+**Bot permissions required: Ban Members -** _It's advised that LockBot has the administrator permission to carry out all functions correctly._
 {% endhint %}
 
-If the command has been activated successfully, it should ban any members that join the server while the command is active. A succession message will be sent to the logs \(if configured\) and to the channel that the command was run in.
+If the command has been activated successfully \(as indicated in the screenshot below\), it should ban any members that join the server while the command is active. A succession message will be sent to the channel that the command was run in.
+
+![Confirmation message for ban lock.](../.gitbook/assets/u9icrv-1-.png)
 
 Users that are affected by this will receive a DM from the bot informing them about this lock being enabled which was why they were banned.
 
-Looking to disable it? Have a look here:
+To disable it just run the command again and select the other toggle. It will display this message if successful: 
 
-{% page-ref page="server-unlock.md" %}
+![](../.gitbook/assets/5snfse-1-.png)
 

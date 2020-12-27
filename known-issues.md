@@ -5,7 +5,7 @@ This page describes the issues of LockBot. Think one should be added? Report it 
 {% hint style="success" %}
 **No current issues**
 
-Enjoy the rest of your day sunshine!
+Enjoy the rest of your day mate!
 {% endhint %}
 
 **Note:** Only major issues are posted here and bugs that do not affect the core bot will not be posted here.

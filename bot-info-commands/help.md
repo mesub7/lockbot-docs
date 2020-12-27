@@ -1,14 +1,14 @@
 # Help
 
-Practically every bot has one.
+Displays help on the bot or a command.
 
 {% hint style="success" %}
 **Format: \[prefix\]help**
 
-**User permissions required: everyone**
+**User permissions required: None**
 
-**Bot permissions required: none** – _It's advised that lock bot should have full server admin to carry out functions correctly._
+**Bot permissions required: None** – _It's advised that LockBot should have full server admin to carry out functions correctly._
 {% endhint %}
 
-The help command provides the documentation & social media links, the help commands for the different categories and the latest news.
+The help command provides the correct usage on a command amongst other information. It will also provide the latest news from the LockBot Network.
 

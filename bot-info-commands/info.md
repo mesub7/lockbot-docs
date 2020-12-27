@@ -5,11 +5,11 @@
 The bot info command displays information about the bot itself.
 
 {% hint style="success" %}
-**Format: \[prefix\]Info**
+**Format: \[prefix\]info**
 
-**User permissions required: everyone**
+**User permissions required: None**
 
-**Bot permissions required: none** – _It's advised that lock bot should have full server admin to carry out functions correctly._
+**Bot permissions required: None**– _It's advised that LockBot should have full server admin to carry out functions correctly._
 {% endhint %}
 
 ### This includes the following bot information:
@@ -17,15 +17,15 @@ The bot info command displays information about the bot itself.
 * Bot developer
 * Bot version
 * Total users
-* Total severs / guilds
+* Total guilds
 * Bot uptime \(shard\)
 * Bot ping \(shard\)
-* Bot system
-* Bot discord JS version
+* Bot operating system
+* Bot discord.js version
 * Bot shard
 * Support server link
 
 {% hint style="info" %}
-This command will display given info on each run of the command. To see up to date info run the command regularly.
+This command will display given info on each run of the command. To see up to date info, run the command regularly.
 {% endhint %}
 

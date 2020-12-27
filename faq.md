@@ -8,6 +8,10 @@ description: Frequently Asked Questions
 
 We aim for a **beta** release on January 1 2021.
 
+## Where has "x" command gone?
+
+We continuously strive to improve LockBot. Sadly, some commands did not share our vision and so we decided to remove them. Don't fret though, we are planning to bring some back!
+
 ## Is it LockBot, lockbot, Lockbot \(and so on\)?
 
 Good question! It generally doesn't matter but here on the documentation, we try to keep it as LockBot.

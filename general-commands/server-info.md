@@ -5,11 +5,11 @@
 The server info command will display information on the current server.
 
 {% hint style="success" %}
-**Format: \[!\]serverinfo**
+**Format: \[prefix\]serverinfo**
 
-**User permissions required: everyone**
+**User permissions required: None**
 
-**Bot permissions required: none** – _It's advised that lock bot should have full server admin to carry out functions correctly._
+**Bot permissions required: None** – _It's advised that LockBot should have full server admin to carry out functions correctly._
 {% endhint %}
 
 ### This includes the following server data:
@@ -18,7 +18,12 @@ The server info command will display information on the current server.
 * Server name
 * Server ID
 * Total user amount
-* Member amount
-* Bot amount
+* Total role number
+* Total channel amount
 * Server creation date
+* Server region
+
+Amongst other information.
+
+![](../.gitbook/assets/egjnjf-1-.png)
 
