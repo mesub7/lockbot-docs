@@ -15,7 +15,7 @@ Maintenance mode has been a challenge to maintain but it is back, stronger as ev
 
 **User Perms Required: LockBot Admin, Server Admin**
 
-**Bot Perms Required: Manage channels, Manage messages** – _It's advised that LockBot should have full server admin to carry out functions correctly._
+**Bot Perms Required: Manage channels, Manage messages** – _It's advised that LockBot should have the administrator permission to carry out functions correctly._
 {% endhint %}
 
 Upon the command being given, LockBot will display a notice that should be read for your information. It will also ask you if you wish to continue with the command. If you do you will need to reply “yes” \(keep in mind this is case sensitive\). If you do not reply, it will time out and cancel. This feature is in place as this command can be quite destructive if not used correctly.

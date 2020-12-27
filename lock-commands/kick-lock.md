@@ -7,7 +7,7 @@ Expecting a large number of people that you don't really want? Enabling kick loc
 
 **User permissions required: LockBot Admin or Server Admin**
 
-**Bot permissions required: Kick Members -** _It's advised that LockBot has the administrator flag to carry out all functions correctly._
+**Bot permissions required: Kick Members -** _It's advised that LockBot should have the administrator permission to carry out functions correctly._
 {% endhint %}
 
 If the command has been activated successfully \(as shown in the screenshot below\), it should kick any members that join the server while the command is active. A succession message will be sent to the channel that the command was run in.

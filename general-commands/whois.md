@@ -9,7 +9,7 @@ The whois command will display information on users that are mentioned or found 
 
 **User permissions required: None**
 
-**Bot permissions required: None** – _It's advised that LockBot should have full server admin to carry out functions correctly._
+**Bot permissions required: None** – _It's advised that LockBot should have the administrator permission to carry out functions correctly._
 {% endhint %}
 
 ### This includes the following user data:

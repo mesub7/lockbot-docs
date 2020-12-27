@@ -19,7 +19,7 @@ Some users do not like the default prefix and may want to change it to something
 
 **User permissions required: server owner / server admin**
 
-**Bot permissions required: None**– _It's advised that LockBot should have full server admin to carry out functions correctly._
+**Bot permissions required: None**– _It's advised that LockBot should have the administrator permission to carry out functions correctly._
 {% endhint %}
 
 {% hint style="danger" %}

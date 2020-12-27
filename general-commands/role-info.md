@@ -9,7 +9,7 @@ The role Info command will display info on a role from a role mention or ID.
 
 **User permissions required: None**
 
-**Bot permissions required: None** – _It's advised that lock bot should have full server admin to carry out functions correctly._
+**Bot permissions required: None** – _It's advised that LockBot should have the administrator permission to carry out functions correctly._
 {% endhint %}
 
 ### This includes the following role data:

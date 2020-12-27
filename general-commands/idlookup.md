@@ -9,7 +9,7 @@ Have you ever wanted to find an ID of something? Well here is the command for yo
 
 **User permissions required: None**
 
-**Bot permissions required: None** – _It's advised that LockBot should have full server admin to carry out functions correctly._
+**Bot permissions required: None** – _It's advised that LockBot should have the administrator permission to carry out functions correctly._
 {% endhint %}
 
 {% hint style="warning" %}
