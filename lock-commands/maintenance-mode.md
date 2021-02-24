@@ -8,6 +8,8 @@ Maintenance mode has been a challenge to maintain but it is back, stronger as ev
 
 {% hint style="danger" %}
 **Note: Due to the high resource usage of m-mode, we have set the channel limit to 40.**
+
+**Update: It is now 60.**
 {% endhint %}
 
 {% hint style="success" %}
@@ -24,7 +26,7 @@ Upon the command being given, LockBot will display a notice that should be read 
 
 ### What does this command actually do?
 
-Once activated, this command will lock all of the server's channels using the @everyone role _\(if other roles are set to override this then it may not work correctly, however this may be to your advantage\)._ It will also create a temporary channel with some basic info, this can be removed if desired. Users with server admin or role overrides will still be able to see the channels in the server. _If you're still having issues using m-mode please contact us via the discord support server. **Read this carefully first.**_
+Once activated, this command will lock all of the server's channels using the @everyone role _\(if other roles are set to override this then it may not work correctly. However, this may be to your advantage\)._ It will also create a temporary channel with some basic info, this can be removed if desired. Users with server admin or role overrides will still be able to see the channels in the server. _If you're still having issues using m-mode please contact us via the discord support server. **Read this carefully first.**_
 
 Looking to unlock your server? Have a look here:
 
