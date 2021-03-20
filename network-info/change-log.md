@@ -1,10 +1,19 @@
 ---
 description: >-
   This page will be periodically updated with details from the update log
-  channel in the discord server.
+  channel in the discord server. If you want the changelog as soon as it is
+  released, join the discord server.
 ---
 
 # Change Log
+
+## LockBot v3.2.7
+
+* Custom Prefixes that have been set will work after the bot has been restarted.
+
+## LockBot v3.2.6
+
+* K-Lock \(Kick Lock\) & B-Lock \(Ban Lock\) is now finally up and running.
 
 ## LockBot v3.2.5
 
