@@ -7,6 +7,32 @@ description: >-
 
 # Change Log
 
+## LockBot v3.3.1
+
+* When a channel has been created/deleted this will now be logged in the Logging System \(if enabled\).
+* If Kick/Ban Lock has been enabled/disabled, this will be logged within the Logging System.
+* Maintenance Mode will now log when it has been enabled \(only will work if you have the logging system enabled\) 
+* Server Unlock will also be logged when Maintenance Mode has been disabled.
+* Fixed `RangeError [BITFIELD_INVALID]: Invalid bitfield flag or number.`
+
+## LockBot v3.3.0
+
+* Updated the format of Kick Lock and Ban Lock.
+* Added `.config` as an alias to the panel command.
+
+## LockBot v3.2.9
+
+* Updated Panel command
+* Logging System for Moderation commands
+* Customisable Logging Channel
+* Updated slowmode messages to embeds
+* S-Unlock has been re-designed for all 3 locking commands.
+
+## LockBot v3.2.8
+
+* Bug Fixes
+* Panel command 
+
 ## LockBot v3.2.7
 
 * Custom Prefixes that have been set will work after the bot has been restarted.
