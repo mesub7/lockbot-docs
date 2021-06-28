@@ -5,7 +5,7 @@
 
 **Following the shutdown of LockBot Version 2, a new developer decided to take over the project. This means that it will continue.**
 
-**Documentation here is for version 3 which is in BETA.** 
+**Documentation here is for version 3.** 
 {% endhint %}
 
 All documentation on this page is for version 3 and will not apply to version 2. All documentation is subject to change.

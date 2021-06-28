@@ -4,8 +4,6 @@ description: Frequently Asked Questions
 
 # FAQ
 
-## When will the bot be back up?
-
 We aim for a **beta** release on January 1 2021.
 
 ## Where has "x" command gone?

@@ -7,9 +7,7 @@ One of the most popular LockBot commands, and can be very helpful as a server to
 Maintenance mode has been a challenge to maintain but it is back, stronger as ever.
 
 {% hint style="danger" %}
-**Note: Due to the high resource usage of m-mode, we have set the channel limit to 40.**
-
-**Update: It is now 60.**
+**Note: Due to the high resource usage of m-mode, we have set the channel limit to 60.**
 {% endhint %}
 
 {% hint style="success" %}
