@@ -20,6 +20,7 @@
 * [Server Info](general-commands/server-info.md)
 * [Channel Info](general-commands/channel-info.md)
 * [Role Info](general-commands/role-info.md)
+* [Panel](general-commands/panel.md)
 
 ## Bot Setup & Info Commands <a id="bot-info-commands"></a>
 
