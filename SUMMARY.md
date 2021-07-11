@@ -39,6 +39,7 @@
 ## Network Info
 
 * [Change Log](network-info/change-log.md)
+* [Terms of Service](network-info/terms-of-service.md)
 * [Terms & Conditions](network-info/lock-bot-terms-and-conditions.md)
 * [Docs Contributors](network-info/docs-contributors.md)
 
