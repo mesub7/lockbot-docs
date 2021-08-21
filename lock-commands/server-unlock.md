@@ -14,7 +14,5 @@ _It's advised that LockBot should have the administrator permission to carry out
 
 Upon running this command, the bot will send a menu to select which mode you want to disable and send a message in the logs channel \(if configured, as shown in the screenshot below\), all you need to do is select the appropriate option. This command will disable **maintenance mode, ban-lock or kick-lock** meaning that members will be able to see channels again.
 
-![](../.gitbook/assets/mk9lep-1-.png)
-
-![Succeassion message when kick-lock has been disabled.](../.gitbook/assets/image.png)
+![](../.gitbook/assets/screenshot_6.png)
 

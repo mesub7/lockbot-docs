@@ -14,5 +14,5 @@ description: >-
 **Bot permissions required: None** – _It's advised that LockBot should have the administrator permission to carry out functions correctly._
 {% endhint %}
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/screenshot_9.png)
 

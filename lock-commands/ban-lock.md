@@ -12,11 +12,11 @@ Getting raided? Expecting unwelcome visitors to your server? Enabling ban lock w
 
 If the command has been activated successfully \(as indicated in the screenshot below\), it should ban any members that join the server while the command is active. A succession message will be sent to the channel that the command was run in.
 
-![Confirmation message for ban lock.](../.gitbook/assets/u9icrv-1-.png)
+![](../.gitbook/assets/screenshot_2.png)
 
 Users that are affected by this will receive a DM from the bot informing them about this lock being enabled which was why they were banned.
 
 To disable it just run the command again and select the other toggle. It will display this message if successful: 
 
-![](../.gitbook/assets/5snfse-1-.png)
+![](../.gitbook/assets/screenshot_3.png)
 

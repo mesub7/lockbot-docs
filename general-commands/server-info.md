@@ -25,5 +25,5 @@ The server info command will display information on the current server.
 
 Amongst other information.
 
-![](../.gitbook/assets/egjnjf-1-.png)
+![](../.gitbook/assets/screenshot_8.png)
 

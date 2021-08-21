@@ -26,5 +26,5 @@ The whois command will display information on users that are mentioned or found 
 _In an event of the error `unknown user` or `unknown ID` , make sure that the person is in the current server and if you are using the ID, make sure it's correct._
 {% endhint %}
 
-![](../.gitbook/assets/hxxf4t-1-.png)
+![](../.gitbook/assets/screenshot_7.png)
 
