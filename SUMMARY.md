@@ -27,6 +27,7 @@
 * [Help](bot-info-commands/help.md)
 * [Info](bot-info-commands/info.md)
 * [Prefix Setup](bot-info-commands/prefix-setup.md)
+* [Logging System](bot-info-commands/logging-system.md)
 
 ## Moderation Commands
 
