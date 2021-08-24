@@ -1,9 +1,9 @@
 # Table of contents
 
 * [LockBot \| Version 3](README.md)
-* [Troubleshooting](troubleshooting.md)
 * [Known Issues](known-issues.md)
 * [FAQ](faq.md)
+* [Troubleshooting](troubleshooting.md)
 
 ## Lock Commands
 
