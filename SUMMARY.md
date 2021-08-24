@@ -1,6 +1,7 @@
 # Table of contents
 
 * [LockBot \| Version 3](README.md)
+* [Troubleshooting](troubleshooting.md)
 * [Known Issues](known-issues.md)
 * [FAQ](faq.md)
 
@@ -24,6 +25,7 @@
 
 ## Bot Setup & Info Commands <a id="bot-info-commands"></a>
 
+* [Kick & Ban Lock Reason](bot-info-commands/kick-and-ban-lock-reason.md)
 * [Help](bot-info-commands/help.md)
 * [Info](bot-info-commands/info.md)
 * [Prefix Setup](bot-info-commands/prefix-setup.md)
