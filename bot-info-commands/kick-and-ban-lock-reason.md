@@ -24,3 +24,19 @@ Afterwards, you should be greeted with this embed:
 
 ![](../.gitbook/assets/screenshot_1.png)
 
+### How do I see the current reason?
+
+You can do `[prefix]setup k/b-lock current` and you'll be greeted with this:
+
+![](../.gitbook/assets/screenshot_2%20%281%29.png)
+
+If there is no reason you'll be greeted with: 
+
+![](../.gitbook/assets/screenshot_3%20%281%29.png)
+
+### How do I remove the reason?
+
+You can do `[prefix]setup k/b-lock delete/remove` and you'll be greeted with: 
+
+![](../.gitbook/assets/screenshot_4%20%281%29.png)
+

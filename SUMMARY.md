@@ -25,11 +25,11 @@
 
 ## Bot Setup & Info Commands <a id="bot-info-commands"></a>
 
-* [Kick & Ban Lock Reason](bot-info-commands/kick-and-ban-lock-reason.md)
 * [Help](bot-info-commands/help.md)
 * [Info](bot-info-commands/info.md)
 * [Prefix Setup](bot-info-commands/prefix-setup.md)
 * [Logging System](bot-info-commands/logging-system.md)
+* [Kick & Ban Lock Reason](bot-info-commands/kick-and-ban-lock-reason.md)
 
 ## Moderation Commands
 
