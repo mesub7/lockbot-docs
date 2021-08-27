@@ -24,3 +24,13 @@ You can report this in our [**Discord Server**](https://discord.gg/RKHan5u) ****
 
 There should be an error to tell you what happened. If not, report this in our [**Discord Server**](https://discord.gg/RKHan5u).
 
+## LockBot is Offline!
+
+### LockBot is offline in my server but not others
+
+If LockBot show's it's offline in your server, but not others. You need to join our [**Discord Server**](https://discord.gg/RKHan5u), create a ticket and request the Development Team to take a look into this issue and get LockBot back up and running in your server!
+
+### LockBot is offline in all the servers
+
+LockBot could be globally restarting due to the latest bug fixes/patches or new commands. From when LockBot goes offline it may take 5-7 minutes to be fully up and running. If not, you will need to join [**Discord Server**](https://discord.gg/RKHan5u), create a ticket and request for the Development Team.
+
