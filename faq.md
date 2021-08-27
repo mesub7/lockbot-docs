@@ -10,6 +10,10 @@ We aim for a **beta** release on January 1 2021.
 
 We continuously strive to improve LockBot. Sadly, some commands did not share our vision and so we decided to remove them. Don't fret though, we are planning to bring some back!
 
+## What makes you any different to another Anti Raid or Raid Prevention Discord Bot?
+
+We aim to give you total control over your server, this is why we don't have any Auto Moderation features as of yet. You are enable to customize a few things within LockBot to best suite you. We are not looking for competition from other Discord Bots, LockBot is there in case you need to stop a load of alts joining the server or alts spamming every single channel.
+
 ## Is it LockBot, lockbot, Lockbot \(and so on\)?
 
 Good question! It generally doesn't matter but here on the documentation, we try to keep it as LockBot.

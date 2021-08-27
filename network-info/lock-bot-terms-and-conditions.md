@@ -20,6 +20,20 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 By using LockBot in any way, you agree to not use the bot for any illegal purposes and/or activities that might or will break Discord's Terms of Service or Guidelines.
 
+## What data we collect
+
+We only store your server data \(Server ID\) in our database to make sure everything is saved in case of a bot restart and to keep things running smoothly as possible.
+
+When adding LockBot to your server, LockBot will automatically store your Server ID in our database. 
+
+In some cases, LockBot might use some sensitive information.
+
+For example: The `suggest`command will collect and send data to our Support Server where we can review your suggestion. We include, Server Name, Server ID, Member Count, Region, Random Server Invite, Bot Join Date, Server Shard. Only the LockBot Staff can view this, you are allowed to request that information to be deleted from our server if you wish.
+
+### What data we DO NOT collect
+
+For total privacy and confidentiality, we do not collect sensitive information about your server, for example: invite URL, member count, messages, attachments etc.
+
 ## Support & Discord
 
 Support in the Discord and on the websites are completely voluntary, no one is getting paid for it. Staff will try their best to provide regular support but due to the geographical location of our staff, we may not always have one online. Staff have the right to refuse help to any member for any reason.
