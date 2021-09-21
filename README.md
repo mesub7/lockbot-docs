@@ -1,4 +1,4 @@
-# LockBot \| Version 3
+# Lock Bot \| Version 3
 
 All documentation on this page is for version 3 and will not apply to version 2. All documentation is subject to change.
 

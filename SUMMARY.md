@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LockBot \| Version 3](README.md)
+* [Lock Bot \| Version 3](README.md)
 * [Getting Started](getting-started.md)
 * [Known Issues](known-issues.md)
 * [FAQ](faq.md)
@@ -31,6 +31,7 @@
 * [Prefix Setup](bot-info-commands/prefix-setup.md)
 * [Logging System](bot-info-commands/logging-system.md)
 * [Kick & Ban Lock Reason](bot-info-commands/kick-and-ban-lock-reason.md)
+* [Anti Scam](bot-info-commands/anti-scam.md)
 
 ## Moderation Commands
 
