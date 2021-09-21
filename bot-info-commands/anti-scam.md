@@ -18,6 +18,12 @@ Ban - When a link is detected, the user will also be banned \[and dm'ed\].
 
 None - Only deletes the message and sends the trigger warning in your desired logs channel.
 
+An example of this could be:
+
+`[prefix]antiscam enable`
+
+`[prefix]antiscam kick`
+
 ## What does the log actually shows me?
 
 We show information of the user, the reason the content was triggered and the punishment. An example of this can be:
