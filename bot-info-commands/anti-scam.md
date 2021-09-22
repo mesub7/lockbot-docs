@@ -48,7 +48,7 @@ Simple answer is, no. This is a semi-public API to whom are trusted by the devel
 
 If a scam link has been sent into your server and has not been detected by the API, you can send a request in our [Discord Server](https://discord.gg/RKHan5u), create a ticket and ask for **Miguel\_\#3687**. 
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 Proof will be needed in order to get the URL blacklisted. This could be a screenshot of the message.
 {% endhint %}
 
