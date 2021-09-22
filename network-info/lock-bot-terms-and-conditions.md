@@ -38,3 +38,11 @@ For total privacy and confidentiality, we do not collect sensitive information a
 
 Support in the Discord and on the websites are completely voluntary, no one is getting paid for it. Staff will try their best to provide regular support but due to the geographical location of our staff, we may not always have one online. Staff have the right to refuse help to any member for any reason.
 
+## Uptime
+
+Lock Bot is a non profit project payed for and run by the developers and supported by our partners please do not expect rapid service 100% of the time we try our hardest to keep the bot running at peak efficiency, but please remember we all have lives as well and we don't get much out of this project; we run it for the community.
+
+## Server Responsibility
+
+Lock Bot does not take any responsibility for any commands run in a server by a user to preform a function that may cause damage or expose information. This includes maintenance mode and other locking commands of that nature, please read all notices and documentation before using a command.
+

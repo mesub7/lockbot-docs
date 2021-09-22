@@ -22,6 +22,26 @@ Upon the command being given, LockBot will display a notice that should be read 
 
 ![Confirmation prompt for m-mode](../.gitbook/assets/yvrpr8-1-.png)
 
+{% hint style="warning" %}
+## Issues
+
+If there are issues \(users can still talk/view channels\) then please read the following information before going to support:
+
+Go to `Channel Settings` -&gt; `Permissions`
+
+All public channels that can be accessed by members:
+
+* Set ![:GrayTick:](https://cdn.discordapp.com/emojis/452773421294813185.png?v=1)`Send Messages` for the **your members** role.
+
+If you are still having issues then visit the discord server.
+{% endhint %}
+
+
+
+
+
+
+
 ### What does this command actually do?
 
 Once activated, this command will lock all of the server's channels using the @everyone role _\(if other roles are set to override this then it may not work correctly. However, this may be to your advantage\)._ It will also create a temporary channel with some basic info, this can be removed if desired. Users with server admin or role overrides will still be able to see the channels in the server. _If you're still having issues using m-mode please contact us via the discord support server. **Read this carefully first.**_
