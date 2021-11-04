@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lock Bot \| Version 3](README.md)
+* [Lock Bot | Version 3](README.md)
 * [Getting Started](getting-started.md)
 * [Known Issues](known-issues.md)
 * [FAQ](faq.md)
@@ -24,7 +24,7 @@
 * [Role Info](general-commands/role-info.md)
 * [Panel](general-commands/panel.md)
 
-## Bot Setup & Info Commands <a id="bot-info-commands"></a>
+## Bot Setup & Info Commands <a href="bot-info-commands" id="bot-info-commands"></a>
 
 * [Help](bot-info-commands/help.md)
 * [Info](bot-info-commands/info.md)
@@ -43,8 +43,7 @@
 
 ## Network Info
 
-* [Change Log](network-info/change-log.md)
+* [🔄 Change Log](network-info/change-log.md)
 * [Terms of Service](network-info/terms-of-service.md)
 * [Terms & Conditions](network-info/lock-bot-terms-and-conditions.md)
 * [Docs Contributors](network-info/docs-contributors.md)
-
