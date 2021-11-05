@@ -4,7 +4,7 @@ description: Please follow the Terms of Service below in order to use LockBot!
 
 # Terms of Service
 
-Here at Lock Bot Network we want to make sure your server is kept safe from Raiders or Unwanted Users! We've made Lock Bot to prevent raids within your servers with several different modules which can try keep them pesky people out! But, In order to keep Lock Bot running smoothly, we have created some Guidelines that you must have to follow to keep you and us safe!
+Here at Lock Bot Network we want to make sure your server is kept safe from raiders or unwanted Users! We've made Lock Bot to prevent raids within your servers with several different modules which can try keep them pesky people out! But, In order to keep Lock Bot running smoothly, we have created some guidelines that you must have to follow to keep you and us safe!
 
 ## Bot Terms of Service
 
@@ -18,6 +18,5 @@ Here at Lock Bot Network we want to make sure your server is kept safe from Raid
 {% hint style="danger" %}
 You must follow these rules in order to use Lock Bot within your server.
 
-If you are found in contempt of breaking these Terms of Service you may face consequences. 
+If you are found in contempt of breaking these Terms of Service you may face consequences.&#x20;
 {% endhint %}
-

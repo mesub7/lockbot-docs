@@ -4,9 +4,9 @@ description: The boring but important stuff.
 
 # Terms & Conditions
 
-This application is held under the 'Modified BSD Licence'. Please read these terms and conditions completely, before using LockBot on your server, which is owned and operated by Adam\_V, the LockBot staff and developers.
+This application is held under the 'Modified BSD Licence'. Please read these terms and conditions completely, before using Lock Bot on your server, which is owned and operated by Adam\_V, the Lock Bot staff and developers.
 
-LockBot is developed by Adam\_V, Miguel\_ and RichieDevs, who own the bot and all the related terms. The terms and conditions are governed in accordance with the laws of the **United Kingdom, specifically England and Wales**.
+Lock Bot is developed and maintaineby Adam\_V, Miguel\_ and RichieDevs, who own the bot and all the related terms. The terms and conditions are governed in accordance with the laws of the **United Kingdom, specifically England and Wales**.
 
 These terms and conditions will explain what information we collect, why we collect it, and the choices we offer to you.
 

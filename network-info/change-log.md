@@ -7,7 +7,7 @@ description: >-
 
 # 🔄 Change Log
 
-## LockBot v3.4.0a
+## Lock Bot v3.4.0a
 
 **Added**
 
@@ -21,7 +21,7 @@ description: >-
 
 * Fixed quite a huge memory leak and CPU overclocking constantly
 
-## LockBot v3.4.0
+## Lock Bot v3.4.0
 
 **Added**
 
@@ -41,7 +41,7 @@ description: >-
 
 * \[Hopefully] Fixed slow response times when you run a command
 
-## LockBot v3.3.9
+## Lock Bot v3.3.9
 
 **Added**
 
@@ -58,7 +58,7 @@ description: >-
 
 * Fixed ban lock dmming users but not banning the user Fixed an issue with the `prefix` command crashing the server shard
 
-## LockBot v3.3.8
+## Lock Bot v3.3.8
 
 **Patches**
 
@@ -68,13 +68,13 @@ description: >-
 
 * The Kick/Ban Lock alert embeds are even more detailed than ever with avatar hyperlinks, bot checker, flags (badges) and if they're a possible threat to your server
 
-## LockBot v3.3.7
+## Lock Bot v3.3.7
 
 **Added**
 
 * You will now be alerted after someone has been kicked/banned within your server when kick/ban lock is enabled, **if** the Logging System is setup. This will show you their tag aswell as their ID, their account age, and whether they have been notified within DMs.
 
-## LockBot v3.3.6
+## Lock Bot v3.3.6
 
 
 
@@ -86,13 +86,13 @@ description: >-
 
 * New `suggest` command
 
-## LockBot v3.3.5
+## Lock Bot v3.3.5
 
 * Fixed `s-unlock`'s embed of "Unlocking Server" but not doing anything.
 * Fixed `maintenance-mode`'s prompt being replaced by another embed.
 * Fixed a couple of bugs within `maintenance-mode`.
 
-## LockBot v3.3.4
+## Lock Bot v3.3.4
 
 * Maintenance Mode will now ask you whether you would like the `maintenance-mode` channel able to send messages or not
 * Slight adjustments on Maintenance Mode
@@ -100,13 +100,13 @@ description: >-
 * Updated command descriptions
 * Changes to Server Unlock > Maintenance Mode
 
-## LockBot v3.3.3
+## Lock Bot v3.3.3
 
 * Fixed Console spamming when people create and delete channels without a log channel set
 * Fixed purge messages not showing the actual messages deleted in the logs
 * Added checking to see if the Klock, Block and Mmode modules are enabled if so it would prompt you to disable the module
 
-## LockBot v3.3.2
+## Lock Bot v3.3.2
 
 * Fixed some internal errors
 * You must now agree to our Terms and Conditions when inviting Lock Bot to your server. \[Screenshot below]
@@ -116,7 +116,7 @@ description: >-
 
 ![](https://media.discordapp.net/attachments/807571569106878475/846279447942004757/Screenshot\_20210524\_074803.jpg?width=500\&height=116)
 
-## LockBot v3.3.1
+## Lock Bot v3.3.1
 
 * When a channel has been created/deleted this will now be logged in the Logging System (if enabled).
 * If Kick/Ban Lock has been enabled/disabled, this will be logged within the Logging System.
@@ -124,12 +124,12 @@ description: >-
 * Server Unlock will also be logged when Maintenance Mode has been disabled.
 * Fixed `RangeError [BITFIELD_INVALID]: Invalid bitfield flag or number.`
 
-## LockBot v3.3.0
+## Lock Bot v3.3.0
 
 * Updated the format of Kick Lock and Ban Lock.
 * Added `.config` as an alias to the panel command.
 
-## LockBot v3.2.9
+## Lock Bot v3.2.9
 
 * Updated Panel command
 * Logging System for Moderation commands
@@ -137,32 +137,32 @@ description: >-
 * Updated slowmode messages to embeds
 * S-Unlock has been re-designed for all 3 locking commands.
 
-## LockBot v3.2.8
+## Lock Bot v3.2.8
 
 * Bug Fixes
 * Panel command\
 
 
-## LockBot v3.2.7
+## Lock Bot v3.2.7
 
 * Custom Prefixes that have been set will work after the bot has been restarted.
 
-## LockBot v3.2.6
+## Lock Bot v3.2.6
 
 * K-Lock (Kick Lock) & B-Lock (Ban Lock) is now finally up and running.
 
-## LockBot v3.2.5
+## Lock Bot v3.2.5
 
 * Maintenance Mode now has a max of 60 channels instead of 30.
 * If a server has more than 60 channels, it will say how many channels needs removing before using Maintenance Mode.
 * Fixed ping on info command.
 
-## LockBot v3.2.4
+## Lock Bot v3.2.4
 
 * Mute command now fixed \[Uses role "Muted" to mute members].
 
 **Note**: When the bot restarts at 00:00 GMT you will have to remove the role manually.
 
-## LockBot v3.1.4
+## Lock  Bot v3.1.4
 
 * Fixed Channel Lock from locking random channels.
