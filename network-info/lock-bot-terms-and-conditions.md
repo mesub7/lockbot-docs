@@ -1,47 +1,50 @@
 ---
-description: The boring but important stuff.
+description: Unfortunately we have to list this stuff to keep you and ourselves safe.
 ---
 
-# Terms & Conditions
+# Terms & Conditions + Privacy Policy
 
-This application is held under the 'Modified BSD Licence'. Please read these terms and conditions completely, before using Lock Bot on your server, which is owned and operated by Adam\_V, the Lock Bot staff, and developers.\
-
-
-Lock Bot is developed and maintained by Adam\_V and Miguel\_ who own the bot and all the related terms. The terms and conditions are governed in accordance with the laws of the **United Kingdom, specifically England and Wales**.
-
-\
+This application is held under the 'Modified BSD License'. Please read these terms and conditions completely, before using Lock Bot on your server, which is owned and operated by Adam\_V, the Lock Bot staff, and developers.\
 
 
-These terms and conditions will explain what information we collect, why we collect it, and the choices we offer to you.\
+Lock Bot is developed and maintained by Adam\_V and Miguel\_ who of which own the bot and all the assets related to the project. The terms and conditions are governed in accordance with the laws of the **United Kingdom, specifically England and Wales** with partial governance in **California** as Discord ToS is enforced.
 
 
-Adam\_V and the Lock Bot Staff reserve the right to terminate your access to the bot, without any advance notice. These terms were updated on **15 December 2021**.
+
+These terms and conditions will outline what our service is, what we do with it, and what that means for you.\
+
+
+Adam\_V and the Lock Bot Staff reserve the right to terminate your access to the bot, without any advance notice. These terms were updated on **21 December 2021**.
 
 ## Legal
 
+Although Lock Bot is entirely private and closed source, we will not allow any redistribution of code, logos, branding, or any asset related to the project or bot. We reserve the right to take legal actions if one of the actions above are present, which will also include DMCA (Digital Millennium Copyright Act) take down requests. We reserve the right to alter, change, replace, and terminate the usage of this document at any time.
 
+## Inviting and Using Lock Bot
 
-Although Lock Bot is entirely private and closed source, we do not condone stealing, distributing, or selling any code, logos, branding, or anything else related to the bot. We reserve the right to take legal actions if one of the subjects above is present, which also includes DMCA takedowns.
+While using and inviting Lock Bot to your server, you accept the following terms below as well as the Terms of Service listed [here](https://docs.lockbot.dev/network-info/terms-of-service).&#x20;
 
+## What data do we collect?
 
+Lock Bot does not store any data labelled as "personal," however, Lock Bot does store:
 
-## The use of Lock Bot
+* **Guild/Server ID**: automatically added to database upon bot joining server for other actions.
+* **Guild/Server Channel Permissions:** necessary to ensure your channel permissions are restored after certain commands are used.&#x20;
+* **User ID:** this is only for those occasional bad apples we spot and don't want ruining this project for others.
+* **Member Count:** also helps us maintain integrity of the bot.
 
-While inviting Lock Bot into your server, you accept that Lock Bot can store data (like the guild ID and member count). We collect this information to identify users that exploit, abuse, or are genuinely throwing errors in Lock Bot's terminal in any way.
+In some cases, Lock Bot may scan and read all channels it's given permission to as it's a necessary function for the anti-scam module to properly determine if a link or file sent is malicious or can harm users. Messages will never be logged internally or externally as your server should remain private.
 
-## What data we collect
+## What data isn't collected?
 
-We only store your server data (Server ID) in our database to make sure everything is saved in case of a bot restart and to keep things running smoothly as possible.
+As previously mentioned, we don't store any data labelled as "personal," so that means we'll never collect your:
 
+* Email Address
+* IP Address
+* Invite URL
+* Messages and/or Attachments
 
-
-When adding Lock Bot to your server, Lock Bot will automatically store your Server ID in our database.&#x20;
-
-In some cases, Lock Bot might use some sensitive information. An example being, Anti Scam. Lock Bot will scan each and every message for link(s) within a message and send them to a 3rd party for analyse, we do not log any messages or domains which has been triggered to be malicious.&#x20;
-
-## What data we DO NOT collect
-
-For total privacy and confidentiality, we do not collect sensitive information about your server, for example: invite URL, member count, messages, attachments, etc.
+We plan to keep it this way as it should be as your privacy and safety will always be our #1 concern. However, in the future (and currently however not recommended as of now since it will alter the databases in a negative way) to evolve our service you will have the right to have your data in our databases as permitted under the California Consumer Privacy Act (CCPA) and will be used as a general privacy practice in our services.&#x20;
 
 ## The Legal Stuff
 
@@ -57,12 +60,12 @@ By using Lock Bot in any way, you agree to not use the bot for any illegal purpo
 
 ## Support & Discord
 
-Support in the Discord and on the websites are completely voluntary, no one is getting paid for it. Staff will try their best to provide regular support but due to the geographical location of our staff, we may not always have one online. The staff has the right to refuse help to any member for any reason.
+Support offered in our server and website are completely voluntary and up to staff member on their willingness to help.&#x20;
 
 ## Uptime
 
-Lock Bot is a non-profit project paid for and run by the developers and supported by our partners please do not expect rapid service 100% of the time we try our hardest to keep the bot running at peak efficiency, but please remember we all have lives as well and we don't get much out of this project; we run it for the community.
+Lock Bot was a non-profit project, however due to rising costs we've opened a patreon and accept donations. Whist this project is still being ran to the best of it's abilities, uptime and reliability will rapidly change at any given moment. It's something we wish to avoid although sometimes it's inevitable.&#x20;
 
 ## Server Responsibility
 
-Lock Bot does not take any responsibility for any commands run in a server by a user to perform a function that may cause damage or expose information. This includes maintenance mode and other locking commands of that nature, please read all notices and documentation before using a command.
+Lock Bot and it's Staff Members do not take any responsibility for any commands run in a server by a user to perform a function that may cause damage or expose information. This includes commands deemed as dangerous like Maintenance Mode or Ban Lock.&#x20;
