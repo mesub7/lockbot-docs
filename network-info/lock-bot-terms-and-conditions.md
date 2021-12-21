@@ -44,7 +44,7 @@ As previously mentioned, we don't store any data labelled as "personal," so that
 * Invite URL
 * Messages and/or Attachments
 
-We plan to keep it this way as it should be as your privacy and safety will always be our #1 concern. However, in the future (and currently however not recommended as of now since it will alter the databases in a negative way) to evolve our service you will have the right to have your data in our databases as permitted under the California Consumer Privacy Act (CCPA) and will be used as a general privacy practice in our services.&#x20;
+We plan to keep it this way as it should be as your privacy and safety will always be our #1 concern. However, in the future (and currently however not recommended as of now since it will alter the databases in a negative way) to evolve our service you will have the right to have your data in our databases deleted as required upon request under the California Consumer Privacy Act (CCPA) and will be used as a general privacy practice in our services.&#x20;
 
 ## The Legal Stuff
 
