@@ -64,7 +64,7 @@ Support offered in our server and website are completely voluntary and up to sta
 
 ## Uptime
 
-Lock Bot was a non-profit project, however due to rising costs we've opened a patreon and accept donations. Whist this project is still being ran to the best of it's abilities, uptime and reliability will rapidly change at any given moment. It's something we wish to avoid although sometimes it's inevitable.&#x20;
+Lock Bot was a non-profit project, however due to rising costs we've opened a patreon and accept donations. Whilst this project is still being ran to the best of it's abilities, uptime and reliability will rapidly change at any given moment. It's something we wish to avoid although sometimes it's inevitable.&#x20;
 
 ## Server Responsibility
 
