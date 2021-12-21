@@ -10,7 +10,6 @@ Here at Lock Bot we strive to provide the most reliable and dependable server ra
 
 ## Lock Bot Terms of Service
 
-*
 * Using Lock Bot for any activity that can be legally deemed as "illegal" is prohibited at all costs and will result in your being blacklisted from interacting with or using our bot.
 * Intentionally launching attacks (such as DDoS and spam messages) or attempting to bring the bot offline which harms it or the services running the bot will result in your immediate blacklist from the bot. Bugs may be reproduced to show developers and staff issues, however abusing bugs or vulnerabilities will never be allowed.&#x20;
 * Reports on ToS violations will be reviewed and acted upon if neccesary depending on the severity. Manangement members reserve the right to blacklist any individuals for any valid reason.
