@@ -28,12 +28,12 @@ While using and inviting Lock Bot to your server, you accept the following terms
 
 Lock Bot does not store any data labelled as "personal," however, Lock Bot does store:
 
-* **Guild/Server ID**: automatically added to database upon bot joining server for other actions.
+* **Server ID**: automatically added to database upon bot joining server for other actions.
 * **Guild/Server Channel Permissions:** necessary to ensure your channel permissions are restored after certain commands are used.&#x20;
 * **User ID:** this is only for those occasional bad apples we spot and don't want ruining this project for others.
-* **Member Count:** also helps us maintain integrity of the bot.
+* **Anti Scam Triggers:** populates the figures of triggers and punishments received.
 
-In some cases, Lock Bot may scan and read all channels it's given permission to as it's a necessary function for the anti-scam module to properly determine if a link or file sent is malicious or can harm users. Messages will never be logged internally or externally as your server should remain private.
+In some cases, Lock Bot may scan and read all channels, which only includes links, as it's a necessary function for the anti-scam module to properly determine if a link or file sent is malicious or can harm users. Messages will never be logged internally or externally as your server should remain private.
 
 ## What data isn't collected?
 
