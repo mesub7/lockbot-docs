@@ -18,7 +18,7 @@ You will have to remove the selected number of channels as given to use Maintena
 
 #### It just keeps saying 'Locking server...' but doing nothing?
 
-You can report this in our [**Discord Server**](https://discord.gg/RKHan5u)** **and create a ticket, we'd be more than willing to help you!
+You can report this in our [**Discord Server**](https://discord.gg/RKHan5u) **** and create a ticket, we'd be more than willing to help you!
 
 #### Server Unlock (s-unlock) is not unlocking my server?
 

@@ -1,16 +1,14 @@
-# Lock Bot \| Version 3
+---
+cover: .gitbook/assets/1500x500.jpg
+coverY: 0
+---
 
-All documentation on this page is for version 3 and will not apply to version 2. All documentation is subject to change.
+# Lock Bot | Version 3
 
-Documentation on this site is currently work in progress.
+Welcome to Lock Bot! Lock Bot is a utility, moderation, raid & scam prevention Discord Bot designed to help your server with everyday essentials. Whether that being, scanning links for scams, locking down your server with many modules, we’ve got you covered.&#x20;
 
-## **Information:**
+Since the release of Version 3 of Lock Bot, Lock Bot has grown even faster with some amazing new modules; Anti Scam. Our recently new Anti Scam module scans every link sent within your server to check whether it is blacklisted. We are able to achieve 99% of domain detections from the amazing 3rd party API; developed by the Co-Founder of [Groovy](https://groovy.bot).&#x20;
 
-_"Hey guys! I'm Miguel, I'll be taking over the Development of Lock Bot. As you will be aware, Lock Bot has Been offline for an extended period of time._
 
-_So, I'll be recoding Lock Bot to make it better \[than it was_ 😂_\] and less buggy! Development of Lock Bot will take a lot of time although \(fingers crossed\), I can publish the **beta** version of Lock Bot on the **1st January 2021**._
 
-_We would like your opinion on some of the current commands that may return but also new features that will make their way into LockBot. You can do this by joining our Community & Support Discord Server which has the invite link_ [_here_](https://discord.gg/9t2csSh)_."_
-
-_- Miguel\_ LockBot Lead Developer_
-
+We're excited for you to join us on this thrilling journey. If you require any assistance, join our [Discord Server](https://lockbot.dev/support).
