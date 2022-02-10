@@ -4,15 +4,11 @@ description: Unfortunately we have to list this stuff to keep you and ourselves 
 
 # Terms & Conditions + Privacy Policy
 
-This application is held under the 'Modified BSD License'. Please read these terms and conditions completely, before using Lock Bot on your server, which is owned and operated by Adam\_V, the Lock Bot staff, and developers.\
+This application is held under the 'Modified BSD License'. Please read these terms and conditions completely, before using Lock Bot on your server, which is owned and operated by Adam\_V, the Lock Bot staff, and developers.
 
+Lock Bot is developed and maintained by Adam\_V and Miguel\_ who of which own the bot and all the assets related to the project. The terms and conditions are governed in accordance with the laws of the United States, particularly California. Discord ToS will always be enforced when using the bot.
 
-Lock Bot is developed and maintained by Adam\_V and Miguel\_ who of which own the bot and all the assets related to the project. The terms and conditions are governed in accordance with the laws of the **United Kingdom, specifically England and Wales** with partial governance in **California** as Discord ToS is enforced.
-
-
-
-These terms and conditions will outline what our service is, what we do with it, and what that means for you.\
-
+These terms and conditions will outline what our service is, what we do with it, and what that means for you.
 
 Adam\_V and the Lock Bot Staff reserve the right to terminate your access to the bot, without any advance notice. These terms were updated on **21 December 2021**.
 
@@ -64,7 +60,7 @@ Support offered in our server and website are completely voluntary and up to sta
 
 ## Uptime
 
-Lock Bot was a non-profit project, however due to rising costs we've opened a patreon and accept donations. Whilst this project is still being ran to the best of it's abilities, uptime and reliability will rapidly change at any given moment. It's something we wish to avoid although sometimes it's inevitable.&#x20;
+Lock Bot was a non-profit project, however due to rising costs we've opened a Patreon and accept donations. Whilst this project is still being ran to the best of it's abilities, uptime and reliability will rapidly change at any given moment. It's something we wish to avoid although sometimes it's inevitable.&#x20;
 
 ## Server Responsibility
 
