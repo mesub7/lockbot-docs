@@ -46,4 +46,5 @@
 * [🔄 Change Log](network-info/change-log.md)
 * [Terms of Service](network-info/terms-of-service.md)
 * [Terms & Conditions + Privacy Policy](network-info/lock-bot-terms-and-conditions.md)
+* [Network Licensing](network-info/network-licensing.md)
 * [Docs Contributors](network-info/docs-contributors.md)
